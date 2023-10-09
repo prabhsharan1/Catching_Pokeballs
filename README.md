@@ -25,6 +25,6 @@ Welcome to the Pokémon Catcher Game, an exciting web-based game where players c
 If you'd like to contribute to this project, feel free to fork the repository, make improvements, and submit a pull request. We welcome all contributions, whether it's bug fixes, new features, or enhancements to the user interface.
 
 ## Credits:
-This project was inspired by the Pokémon franchise and built by [Your Name]. It uses various open-source libraries and assets, which are credited in the code and project files.
+This project was inspired by the Pokémon franchise and built by Prabhsharan Singh Sethi. It uses various open-source libraries and assets, which are credited in the code and project files.
 
 Have fun playing and catching 'em all! If you have any questions or suggestions, please don't hesitate to reach out.
