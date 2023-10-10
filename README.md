@@ -19,7 +19,7 @@ Welcome to the Pokémon Catcher Game, an exciting web-based game where players c
 ## Getting Started:
 - Clone or fork this repository to your local machine.
 - Open the `index.html` file in your web browser to start playing.
-- Customize the game by modifying the HTML, CSS, and JavaScript to add new features or change the game's appearance.
+- Customize the game by modifying the HTML and JavaScript to add new features or change the game's appearance.
 
 ## Contributing:
 If you'd like to contribute to this project, feel free to fork the repository, make improvements, and submit a pull request. We welcome all contributions, whether it's bug fixes, new features, or enhancements to the user interface.
