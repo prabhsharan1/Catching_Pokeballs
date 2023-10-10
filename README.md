@@ -1,7 +1,7 @@
 
 # Pokémon Catcher Game
 
-Welcome to the Pokémon Catcher Game, an exciting web-based game where players can embark on an adventure to catch as many Pokéballs as they can while exploring a virtual world filled with surprises! This project is developed using HTML, CSS, and JavaScript, providing an interactive and engaging gaming experience.
+Welcome to the Pokémon Catcher Game, an exciting web-based game where players can embark on an adventure to catch as many Pokéballs as they can while exploring a virtual world filled with surprises! This project is developed using HTML and JavaScript, providing an interactive and engaging gaming experience.
 
 ## Features:
 - **Catch 'Em All**: Run around the virtual world and capture as many Pokéballs as you can.
